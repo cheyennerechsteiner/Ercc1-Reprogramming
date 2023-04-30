@@ -1,0 +1,93 @@
+ID	Origin	Age	Sex	Genotype	Info	Condition
+TOR_1	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	control	mutant_control_noVC
+TOR_2	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	control	mutant_control_noVC
+TOR_3	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	control	mutant_control_noVC
+TOR_4	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	2	mutant_day-2_noVC
+TOR_5	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	2	mutant_day-2_noVC
+TOR_6	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	2	mutant_day-2_noVC
+TOR_7	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	4	mutant_day-4_noVC
+TOR_8	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	4	mutant_day-4_noVC
+TOR_9	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	4	mutant_day-4_noVC
+TOR_10	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	control	mutant_control_VC
+TOR_11	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	control	mutant_control_VC
+TOR_12	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	control	mutant_control_VC
+TOR_13	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	2	mutant_day-2_VC
+TOR_14	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	2	mutant_day-2_VC
+TOR_15	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	2	mutant_day-2_VC
+TOR_16	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	4	mutant_day-4_VC
+TOR_17	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	4	mutant_day-4_VC
+TOR_18	Skin_TTF	8	male	4FJ_ERCC1_(KO/d)	4	mutant_day-4_VC
+TOR_19	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	control	wt_control_noVC
+TOR_20	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	control	wt_control_noVC
+TOR_21	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	control	wt_control_noVC
+TOR_22	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	2	wt_day-2_noVC
+TOR_23	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	2	wt_day-2_noVC
+TOR_24	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	2	wt_day-2_noVC
+TOR_25	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	4	wt_day-4_noVC
+TOR_26	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	4	wt_day-4_noVC
+TOR_27	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	4	wt_day-4_noVC
+TOR_28	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	control	wt_control_VC
+TOR_29	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	control	wt_control_VC
+TOR_30	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	control	wt_control_VC
+TOR_31	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	2	wt_day-2_VC
+TOR_32	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	2	wt_day-2_VC
+TOR_33	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	2	wt_day-2_VC
+TOR_34	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	4	wt_day-4_VC
+TOR_35	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	4	wt_day-4_VC
+TOR_36	Skin_TTF	22	female	4FJ_(+/-)_OCT4-GFP	4	wt_day-4_VC
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
